@@ -15,8 +15,7 @@
   <img align="center" alt="Neto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Neto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
-  <img aling="center" alt="Neto-gif" height="30" width="40" style="margin-left:70px;" src="https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp">
+  <img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">      
 </div>
   <br>
 <div>   
