@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ivanilton Neto 👋
 
-- 🔭 Hoje trabalho como monitor na kenzie academy
+- 🔭 Hoje trabalho como peer-coach na kenzie academy
 - 🌱 Estudando Typescript
 - 😄 Pronouns: ele/dele
 
