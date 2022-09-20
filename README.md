@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ivanilton Neto 👋
 
 - 🔭 Hoje trabalho como peer-coach na kenzie academy
-- 🌱 Estudando Backand
+- 🌱 Estudando nodeJS
 - 😄 Pronouns: ele/dele
 
 <div align="center">
