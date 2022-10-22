@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Ivanilton Neto 👋
 
+- 💻 Desenvolvedor Front-End
 - 🔭 Hoje trabalho como peer-coach na kenzie academy
 - 🌱 Estudando express & typeorm
 - 😄 Pronouns: ele/dele
