@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Front-End
 - 🔭 Hoje trabalho como peer-coach na kenzie academy
-- 🌱 Estudando express & typeorm
+- 🌱 Estudando express, typeorm e jest
 - 😄 Pronouns: ele/dele
 
 <div align="center">
