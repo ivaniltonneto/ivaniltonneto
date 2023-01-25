@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ivanilton Neto 👋
 
-- 💻 Desenvolvedor Front-End
+- 💻 Desenvolvedor FullStack
 - 🔭 Hoje trabalho como peer-coach na kenzie academy
 - 🌱 Estudando python
 - 😄 Pronouns: ele/dele
