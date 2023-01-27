@@ -21,6 +21,7 @@
   <img align="center" alt="Neto-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Neto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Neto-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Neto-Styled-components" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-original.svg">
 </div>
   <br>
 <div>   
