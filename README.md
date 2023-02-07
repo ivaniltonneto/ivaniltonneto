@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor FullStack
 - 🔭 Hoje trabalho como peer-coach na kenzie academy
-- 🌱 Estudando python
+- 🌱 Estudando Next
 - 😄 Pronouns: ele/dele
 
 <div align="center">
