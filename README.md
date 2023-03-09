@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Ivanilton Neto 👋
 
 - 💻 Desenvolvedor FullStack
-- 🔭 Hoje trabalho como peer-coach na kenzie academy
-- 🌱 Estudando Next.js
+- 🌱 Estudando Nest.js
 - 😄 Pronouns: ele/dele
 
 <div align="center">
