@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Ivanilton Neto 👋
 
-- 💻 Desenvolvedor FullStack
-- 🌱 Estudando Nest.js
+- 💻 Desenvolvedor Back-end na ArcH
 - 😄 Pronouns: ele/dele
 
 <div align="center">
