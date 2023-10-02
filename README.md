@@ -31,4 +31,5 @@
     
   
   ![Snake animation](https://github.com/ivaniltonneto/ivaniltonneto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/seu-usuário-aqui/ivaniltonneto/blob/output/github-contribution-grid-snake.svg)
 </div>
