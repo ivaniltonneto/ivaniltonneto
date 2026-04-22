@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Ivanilton Neto  
 
-- 💻 Analista de Arquitetura de Soluções & Desenvolvedor Back-end na ArcH  
+- 💻 Analista de Arquitetura de Soluções & Desenvolvedor Back-end 
 - 🚀 Focado em **APIs RESTful, arquitetura escalável e integração de sistemas**  
 - 📚 Entusiasta de **DevOps (Docker, Kubernetes)** e boas práticas de código  
 
