@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Ivanilton Neto  
 
 - 🏗️ **Arquiteto de Software & Desenvolvedor Back-End** focado em sistemas resilientes, seguros e de alta escalabilidade.
-- 🚀 Especialista em traduzir requisitos de negócio em decisões técnicas equilibradas entre performance e manutenção utilizando **DDD e Arquitetura Hexagonal**.
+- 🚀 Habilidade em traduzir requisitos de negócio em decisões técnicas equilibradas entre performance, simplicidade e manutenção de código.
 - 🔐 Sólida experiência no desenvolvimento de sistemas para setores regulados, aplicando proteção de dados sensíveis (**PII Redaction**) e **trilhas de auditoria imutáveis**.
 - 🧠 Experiência prática na arquitetura de dados moderna, integrando soluções com bancos de dados vetoriais e engenharia de dados avançada.
 
@@ -64,7 +64,6 @@
   <!-- Bancos de Dados e Cache -->
   <img align="center" alt="Neto-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
   <img align="center" alt="Neto-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Neto-Weaviate" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/weaviate/weaviate-original.svg">
 
   <!-- Infraestrutura e Ferramentas -->
   <img align="center" alt="Neto-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
